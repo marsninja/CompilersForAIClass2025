@@ -55,8 +55,8 @@ Grading is **research project-centric**. You’ll showcase your project’s evol
 | **Sep 22-24** | [Pytorch2](https://dl.acm.org/doi/10.1145/3620665.3640366), [TorchBench](https://arxiv.org/abs/2304.14226) <br>[TorchTitan](https://arxiv.org/abs/2410.06511), [ECLIP](https://arxiv.org/abs/2506.12598) | Papers and Discussion|  |
 | **Sep 29 - Oct 1** | [Triton](https://dl.acm.org/doi/10.1145/3315508.3329973), [Geak](https://arxiv.org/abs/2507.23194) <br>[OpFusion](https://arxiv.org/abs/2301.13062), [MemSafeXLA](https://arxiv.org/abs/2206.14148) |Papers and Discussion |  |
 | **Oct 6-8** | Group Presentations<br>Group Presentations | Pitches |  |
-| **Oct 13-15** | Fall Study Break (Holiday)<br>[MLIR](https://arxiv.org/abs/2002.11054), [Glow](https://arxiv.org/abs/1805.00907) |Papers and Discussion |  |
-| **Oct 20-22** | [Repo Deconstruct] <br> [Repo Deconstruct] | Tech Talks |  |
+| **Oct 13-15** | Fall Study Break (Holiday)<br> |Papers and Discussion |  |
+| **Oct 20-22** | [MLIR](https://arxiv.org/abs/2002.11054), [Glow](https://arxiv.org/abs/1805.00907) <br> [Repo Deconstruct] | Tech Talks |  |
 | **Oct 27-29** | [EffPagedAttn](https://arxiv.org/abs/2309.06180), [EffLLMServ](https://arxiv.org/abs/2503.18292) <br>[NvidiaAmpere](https://arxiv.org/abs/2208.11174), [AMDsDTW](https://arxiv.org/abs/2403.06931) |Papers and Discussion
 | **Nov 3-5** | Group Presentations<br>Group Presentations | Updates |  |
 | **Nov 10-12** | [TPUs](https://arxiv.org/abs/2304.01433), [MTIA](https://dl.acm.org/doi/pdf/10.1145/3579371.3589348) <br>[MLFleet](https://arxiv.org/pdf/2502.06982) + [Special Guest?] | Papers and Discussion|  |
