@@ -1,5 +1,7 @@
 # Repo Deconstruction Project
 
+Due: Nov 24th
+
 ## Overview
 
 The Repo Deconstruction project is designed to help you deeply understand a compiler or AI systems codebase by leveraging an in-editor AI agent to generate **targeted, personalized documentation** that teaches you the architecture and navigation of the code. This is not just about reading documentation—it's about actively exploring, asking questions, and building a mental model of how complex systems work.
