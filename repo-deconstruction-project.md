@@ -151,7 +151,7 @@ Organize the AI-generated content into coherent documentation that includes:
 5. **Examples and Use Cases**: Concrete demonstrations
 6. **Visual Aids**: Diagrams, tables, and annotated code
 
-Save your documentation in markdown format in your course repository.
+I suggest doing everything in markdown and installing the mermaid plugin for diagrams.
 
 ### 7. Create a Video Walkthrough
 
@@ -186,8 +186,6 @@ Record a **5-10 minute video** that:
 2. **Submit the video link** in the "Repo Deconstruction" tab of the course spreadsheet:
    - https://docs.google.com/spreadsheets/d/1y7yw2zQt6hjsVg0bTg0fLS1cplkk9_-1nd-qYPybwfE/edit?usp=sharing
    - Include your uniquename and a working link to your video
-
-3. **Include your documentation** in your course GitHub repository
 
 ### Optional (But Encouraged!)
 
