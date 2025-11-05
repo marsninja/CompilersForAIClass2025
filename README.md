@@ -61,7 +61,7 @@ Grading is **research project-centric**. You’ll showcase your project’s evol
 | **Nov 3-5** | Group Presentations<br>Group Presentations | Updates |  |
 | **Nov 10-12** | [TPUs](https://arxiv.org/abs/2304.01433), [MTIA](https://dl.acm.org/doi/pdf/10.1145/3579371.3589348) <br>[MLFleet](https://arxiv.org/pdf/2502.06982) + [Special Guest?] | Papers and Discussion|  |
 | **Nov 17-19** | [Repo Deconstruct] <br> [Repo Deconstruct] | Papers and Discussion|  |
-| **Nov 24-26** | Flex Day <br>Thanksgiving Recess (Holiday) | Presentations |  |
+| **Nov 24-26** | Flex Day (Repo Deconstruction Due) <br>Thanksgiving Recess (Holiday) | Presentations |  |
 | **Dec 1-3** | Final Project Presentations<br>Course Wrap-up & Future Directions | Presentations | |
 
 ---
