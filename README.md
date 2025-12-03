@@ -167,7 +167,71 @@ Students should sign up for a paper here (in the paper signup tab): https://docs
 - For style and pacing, watch recent paper talks on YouTube from top architecture/systems conferences such as **ISCA**, **MICRO**, **ASPLOS**, and **HPCA**
 
 
+---
 
+## 📝 Final Paper
+
+Your research project culminates in a **conference-style paper** that documents your work, findings, and contributions.
+
+### Requirements
+
+- **Format**: Standard CS conference paper format (e.g., ACM or IEEE style)
+- **Length**: 5–8 pages (excluding references)
+- **Tools**: Use [Overleaf](https://www.overleaf.com/) (recommended for collaboration) or local LaTeX
+- **Due Date**: **December 15th, 2025**
+- **Submission**: Push final PDF to your GitHub repository
+
+### Recommended Templates
+
+- **ACM**: Use the `acmart` template with `sigconf` option — [Overleaf ACM Template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc)
+- **IEEE**: Use the IEEE Conference template — [Overleaf IEEE Template](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn)
+
+### Paper Structure
+
+Your paper should include:
+
+1. **Abstract** (~150–250 words): Concise summary of problem, approach, and key results
+2. **Introduction**: Motivation, problem statement, and contributions
+3. **Background/Related Work**: Context and how your work relates to existing research
+4. **Approach/Methodology**: Technical details of your solution
+5. **Implementation**: System architecture, tools used, key design decisions
+6. **Evaluation**: Experiments, benchmarks, and results with analysis
+7. **Discussion**: Limitations, lessons learned, future work
+8. **Conclusion**: Summary of contributions and impact
+9. **References**: Properly formatted citations
+
+### Tips for First-Time Paper Writers
+
+Writing your first research paper can feel daunting. Here are practical tips to help you succeed:
+
+#### Getting Started
+- **Start early**: Don't wait until the last week. Good papers require multiple drafts and revisions
+- **Read papers in your area**: Notice how they structure arguments and present results — mimic what works
+- **Write the easy parts first**: Start with methodology or implementation sections where you describe what you built
+
+#### Writing Advice
+- **Be precise**: Avoid vague language like "very fast" or "much better" — use specific numbers and comparisons
+- **One idea per paragraph**: Each paragraph should have a clear topic sentence and support one main point
+- **Use active voice**: "We implemented X" is clearer than "X was implemented"
+- **Define terms before using them**: Don't assume readers know your acronyms or jargon
+- **Figures tell stories**: A good diagram can replace paragraphs of text — invest time in clear visuals
+
+#### Common Mistakes to Avoid
+- **Don't oversell**: Be honest about limitations; reviewers appreciate intellectual honesty
+- **Don't skip related work**: Show you understand the landscape and where your work fits
+- **Don't bury the lede**: State your main contribution clearly in the introduction
+- **Don't forget baselines**: Always compare against something — a naive approach, prior work, or standard benchmarks
+- **Don't submit without proofreading**: Typos and grammar errors undermine credibility
+
+#### The Revision Process
+1. **First draft**: Get ideas on paper without worrying about perfection
+2. **Self-review**: Read your paper aloud — awkward phrasing becomes obvious
+3. **Peer review**: Have teammates or classmates read it and provide feedback
+4. **Final polish**: Check formatting, fix citations, ensure figures are readable
+
+#### Useful Resources
+- [How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) — Simon Peyton Jones (Microsoft Research)
+- [Writing Technical Articles](https://www.cs.columbia.edu/~hgs/etc/writing-style.html) — Henning Schulzrinne (Columbia)
 
 ---
 
